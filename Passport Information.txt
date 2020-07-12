@@ -1,0 +1,5 @@
+Client ID: 9089262d-0355-4841-a0aa-7ab9262d1359
+Client secret: qsVikSAVUGiNAYTMjYk7c0oc4MEY2xuH7MLJaepe
+Password grant client created successfully.
+Client ID: 9089262f-b33d-4dcd-ac04-251dd3be7d03
+Client secret: Utq5WduKovJaVj2bOetvo1i8D7Asg0r8aK5MklMR
